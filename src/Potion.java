@@ -11,10 +11,10 @@ public class Potion {
     // TODO: Implement addIngredient(...)
     // The ingredient's effect should be added to the potion's strength
 
-    // TODO: Implement stirPotion(...)
+    // TODO: Implement stir(...)
     // Stir the potion with a random effect: add a random value between 1 and 5 to its strength
 
-    // TODO: Implement heatPotion(...)
+    // TODO: Implement heat(...)
     // Heat the potion with a random effect: add a random value between 0 and 7 to its quality
 
     // TODO: Implement evaluatePotion(...)
